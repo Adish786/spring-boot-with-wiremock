@@ -1,0 +1,7 @@
+com\sivalabs\tcdemo\GitHubUser$GitHubUserBuilder.class
+com\sivalabs\tcdemo\GitHubServiceException.class
+com\sivalabs\tcdemo\GithubController.class
+com\sivalabs\tcdemo\GithubService.class
+com\sivalabs\tcdemo\SpringBootWireMockApplication.class
+com\sivalabs\tcdemo\ApiError.class
+com\sivalabs\tcdemo\GitHubUser.class
